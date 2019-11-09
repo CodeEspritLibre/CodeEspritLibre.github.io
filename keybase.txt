@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/espritlibredev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://codeespritlibre.github.io
+  * I am espritlibredev (https://keybase.io/espritlibredev) on keybase.
+  * I have a public key ASAQ5m8s-lVteTDVWXuc38iF0qEs3hnXmtuQupJj4ge3Dwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012002611152cbad4f4e6bfdc0c0ab373175560fb5d4bf0d5aac7fb655a1be80c4060a",
+      "host": "keybase.io",
+      "kid": "012010e66f2cfa556d7930d5597b9cdfc885d2a12cde19d79adb90ba9263e207b70f0a",
+      "uid": "18c49429ca1f66c4ad4406f70863a219",
+      "username": "espritlibredev"
+    },
+    "merkle_root": {
+      "ctime": 1573335094,
+      "hash": "a8bf2916bb8f162fab3ee128253f8d427c960e1e6c5d7713be011b22817fd19dbeb14861d25ddf20197309e7abb6b43d2eb4b1e3bc7911f3a18aeb760cdc2cfb",
+      "hash_meta": "4acf7352877bca1bd4e22af17634d79bac8b60e0b6504b78935ad7158911c12b",
+      "seqno": 9037469
+    },
+    "service": {
+      "entropy": "MU9idEKSEheSlN3h0Yyf/EGp",
+      "hostname": "codeespritlibre.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573335117,
+  "expire_in": 504576000,
+  "prev": "3461f42c0f51ba701fb3b8c63e8d571d2c493d98c54dcb2511a4bce35e406782",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEOZvLPpVbXkw1Vl7nN/IhdKhLN4Z15rbkLqSY+IHtw8Kp3BheWxvYWTESpcCG8QgNGH0LA9RunAfs7jGPo1XHSxJPZjFTcslEaS8415AZ4LEIBr26LcnAXrQfht3vEso4yttFbtvNMQ+hrsj9dkcoMpFAgHCo3NpZ8RAMwhZwpvPazvuiFPfx/mFuenNg24pfxOh3MC0DQT+5DlKYifnJqm/LiNAd58BnJn8e9MhzP6/93JHvA+l5/rrCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPHew5IoNw7BafhwteV9WDzEyBSDKV+TX0gZDJR7GB3lo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/espritlibredev
+
+==================================================================
